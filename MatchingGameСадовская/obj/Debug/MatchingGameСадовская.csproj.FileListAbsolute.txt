@@ -1,0 +1,11 @@
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\bin\Debug\MatchingGameСадовская.exe.config
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\bin\Debug\MatchingGameСадовская.exe
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\bin\Debug\MatchingGameСадовская.pdb
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.csproj.AssemblyReference.cache
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.Form1.resources
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.Properties.Resources.resources
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.csproj.GenerateResource.cache
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.exe
+C:\Users\Aleksandr\source\repos\MatchingGameСадовская\obj\Debug\MatchingGameСадовская.pdb
